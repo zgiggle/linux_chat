@@ -50,7 +50,9 @@ def get_text(dir_path):
 
 # 目标文件夹
 tar_dir = [
-    "/root/data/paper_demo/graph",
+    "/root/data/Linux/linux-command",
+    "/root/data/Linux/linux-doc",
+    "/root/data/Linux/Linux-Tutorial"
 ]
 
 # 加载目标文件
